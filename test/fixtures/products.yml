@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+ps4:
+  title: Ps4 fat
+  description: PS4 en buen estado
+  price: 150
+  category: videogames
+
+nintendo:
+  title: nintendo wii
+  description: está pirateada
+  price: 100
+  category: videogames
+ 
+air:
+   title: Macbook Air
+   description: Le falla la batería
+   price: 250
+   category: computers
